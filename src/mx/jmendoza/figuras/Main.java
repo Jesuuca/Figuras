@@ -9,7 +9,7 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-        
+        System.out.println("*Mensaje nuevo - esto es solo para confirmar que hay cambios en el repositorio*\n");
         Figura nombre = new Figura();
         
         System.out.println("..:Menú opciones:..\n1. Triangulo\n2. Rectangulo\n3. Circulo\n4. Cuadrado\n\n*Si requiere salir oprima cualquier tecla.*");
